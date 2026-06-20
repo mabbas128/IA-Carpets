@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About Us</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<h1>About Our Rugs</h1>
+
+<img src="images/about.jpg" width="100%">
+
+<p>
+Our handmade rugs are created by experienced artisans.
+Each piece tells a story through traditional weaving methods.
+</p>
+
+</body>
+</html>
