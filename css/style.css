@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+    font-family: Arial;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 50px;
+    background: #222;
+}
+
+.logo {
+    color: white;
+    font-size: 30px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+.hero {
+    height: 600px;
+    background: url('../images/hero.jpg');
+    background-size: cover;
+    text-align: center;
+    color: white;
+    padding-top: 200px;
+}
+
+.hero h1 {
+    font-size: 60px;
+}
+
+.btn {
+    background: #b68d40;
+    color: white;
+    padding: 15px 30px;
+    text-decoration: none;
+}
+
+.gallery {
+    display: flex;
+    gap: 20px;
+    padding: 50px;
+}
+
+.card {
+    width: 33%;
+}
+
+.card img {
+    width: 100%;
+}
+
+form {
+    width: 500px;
+    margin: auto;
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 15px;
+    margin: 10px 0;
+}
+
+button {
+    padding: 15px 30px;
+    background: #b68d40;
+    color: white;
+    border: none;
+}
