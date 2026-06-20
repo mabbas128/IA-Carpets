@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Collections</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<h1>Our Collection</h1>
+
+<div class="gallery">
+
+    <div class="card">
+        <img src="images/rug1.jpg">
+        <h3>Persian Rug</h3>
+        <p>$850</p>
+    </div>
+
+    <div class="card">
+        <img src="images/rug2.jpg">
+        <h3>Moroccan Rug</h3>
+        <p>$950</p>
+    </div>
+
+    <div class="card">
+        <img src="images/rug3.jpg">
+        <h3>Vintage Rug</h3>
+        <p>$1200</p>
+    </div>
+
+</div>
+
+</body>
+</html>
