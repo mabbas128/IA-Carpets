@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Handmade Rugs</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<header>
+    <div class="logo">Handmade Rugs</div>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="collection.html">Collection</a>
+        <a href="videos.html">Videos</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+</header>
+
+<section class="hero">
+    <h1>Luxury Handmade Rugs</h1>
+    <p>Handcrafted by artisans using traditional techniques.</p>
+    <a href="collection.html" class="btn">Explore Collection</a>
+</section>
+
+<section class="about">
+    <h2>Our Story</h2>
+    <p>
+        Every rug is handmade by skilled artisans using natural
+        wool and traditional weaving methods.
+    </p>
+</section>
+
+<section class="gallery">
+
+    <div class="card">
+        <img src="images/rug1.jpg">
+        <h3>Persian Collection</h3>
+    </div>
+
+    <div class="card">
+        <img src="images/rug2.jpg">
+        <h3>Modern Collection</h3>
+    </div>
+
+    <div class="card">
+        <img src="images/rug3.jpg">
+        <h3>Vintage Collection</h3>
+    </div>
+
+</section>
+
+<footer>
+    <p>© 2026 Handmade Rugs. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
